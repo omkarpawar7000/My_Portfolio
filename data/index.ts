@@ -171,20 +171,23 @@ export const workExperience = [
         desc: "Created a full stack engineering college website with effective data management system using ReactJS and ExpressJS.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
-    }
+    },
 ];
 
 export const socialMedia = [
     {
         id: 1,
         img: "/git.svg",
+        title: 'github',
     },
     {
         id: 2,
         img: "/twit.svg",
+        title: 'twitter',
     },
     {
         id: 3,
         img: "/link.svg",
+        title: 'link',
     },
 ];
