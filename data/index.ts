@@ -106,34 +106,34 @@ export const projects = [
 
 export const testimonials = [
     {
-        quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+        quote: "Collaborating with Omkar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Omkar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Omkar is the ideal partner.",
+        name: "MITM Engineering College, Oros",
+        title: "Principal of MITM",
     },
     {
-        quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+        quote: "Collaborating with Omkar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Omkar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Omkar is the ideal partner.",
+        name: "MITM Engineering College, Oros",
+        title: "Principal of MITM",
     },
     {
-        quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+        quote: "Collaborating with Omkar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Omkar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Omkar is the ideal partner.",
+        name: "MITM Engineering College, Oros",
+        title: "Principal of MITM",
     },
     {
-        quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+        quote: "Collaborating with Omkar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Omkar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Omkar is the ideal partner.",
+        name: "MITM Engineering College, Oros",
+        title: "Principal of MITM",
     },
     {
-        quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        name: "Michael Johnson",
-        title: "Director of AlphaStream Technologies",
+        quote: "Collaborating with Omkar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Omkar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Omkar is the ideal partner.",
+        name: "MITM Engineering College, Oros",
+        title: "Principal of MITM",
+    },
+    {
+        quote: "Collaborating with Omkar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Omkar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Omkar is the ideal partner.",
+        name: "MITM Engineering College, Oros",
+        title: "Principal of MITM",
     },
 ];
 
@@ -179,15 +179,18 @@ export const socialMedia = [
         id: 1,
         img: "/git.svg",
         title: 'github',
+        url: 'https://github.com/omkarpawar7000',
     },
     {
         id: 2,
         img: "/twit.svg",
         title: 'twitter',
+        url: 'https://github.com/omkarpawar7000',
     },
     {
         id: 3,
         img: "/link.svg",
-        title: 'link',
+        title: 'linkedIN',
+        url: 'https://www.linkedin.com/in/omkar-pawar-6b8b1b1a1/',
     },
 ];
