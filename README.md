@@ -12,6 +12,23 @@
   <h3 align="center">My Personal Portfolio Website</h3>
 </div>
 
+
+## <a name="introduction">🤖 Introduction </a>
+
+Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- Next.js
+- TypeScript
+- Clerk
+- getstream
+- shadcn
+- Tailwind CSS
+
+## <a name="features">🔋 Features</a>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
