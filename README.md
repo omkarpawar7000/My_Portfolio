@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://camo.githubusercontent.com/60a407259d1927c1cd6f9b4b4d62729b8ed9449d7baf3a1ee5e2512d7ffb7812/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4672616d65722d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d6672616d657226636f6c6f723d303035354646" alt="tailwindcss" />
   </div>
 
   <h3 align="center">My Personal Portfolio Website</h3>
