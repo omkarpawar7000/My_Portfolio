@@ -15,15 +15,15 @@
 
 ## <a name="introduction">🤖 Introduction </a>
 
-Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
+Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
 - TypeScript
-- Clerk
-- getstream
-- shadcn
+- Three.js
+- Aceternity UI
+- Framer Motion
 - Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
