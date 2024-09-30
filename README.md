@@ -1,13 +1,14 @@
 <div align="center">
   <br />
-      <img src="https://private-user-images.githubusercontent.com/151519281/329586433-c6ca3c03-6cb7-4f67-a9b9-a73da5bfa0d8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMyNzE0NDgsIm5iZiI6MTcyMzI3MTE0OCwicGF0aCI6Ii8xNTE1MTkyODEvMzI5NTg2NDMzLWM2Y2EzYzAzLTZjYjctNGY2Ny1hOWI5LWE3M2RhNWJmYTBkOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxMFQwNjI1NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNmI2NjI5OGFiNTJiMDQ0MmY1NDAyYjkxZmNhOWZmODVjNTgxZDE4ZTc1YjA2MDBkNjllNDY1OGVlMDBmOWZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Bl-Nsdw2YEmb3YhFHS6Ji7aHigdZ7wCXJXAy61DHtrw" alt="Project Banner">
+      <img src="https://github.com/omkarpawar7000/My_Portfolio/blob/0175f2aef9672357b93de085272af7dc39905c2f/portfolio.png" alt="Project Banner">
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://camo.githubusercontent.com/d333aaf2eaae70e8fdb7a92d2c90767abf48b4732d74ff52836c878bdc526fbb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54687265655f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7468726565646f746a7326636f6c6f723d303030303030" alt="threejs" />
-    <img src="https://camo.githubusercontent.com/60a407259d1927c1cd6f9b4b4d62729b8ed9449d7baf3a1ee5e2512d7ffb7812/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4672616d65722d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d6672616d657226636f6c6f723d303035354646" alt="framermotion" />
+    <img src="https://github.com/omkarpawar7000/My_Portfolio/blob/0175f2aef9672357b93de085272af7dc39905c2f/nextjs.svg" alt="nextdotjs" />
+    <img src="https://github.com/omkarpawar7000/My_Portfolio/blob/0175f2aef9672357b93de085272af7dc39905c2f/typescript.svg" alt="typescript" />
+    <img src="https://github.com/omkarpawar7000/My_Portfolio/blob/0c1778f9b41a526429e138765dc9e4ffb2f4d4ab/threejs.svg" alt="threejs" />
+    <img src="https://github.com/omkarpawar7000/My_Portfolio/blob/0175f2aef9672357b93de085272af7dc39905c2f/framermotion.svg" alt="framermotion" />
+    <img src="https://github.com/omkarpawar7000/My_Portfolio/blob/0175f2aef9672357b93de085272af7dc39905c2f/tailwindcss.svg" alt="tailwindcss" />
   </div>
 
   <h3 align="center">My Personal Portfolio Website</h3>
