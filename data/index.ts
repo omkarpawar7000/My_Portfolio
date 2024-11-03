@@ -72,11 +72,12 @@ export const gridItems = [
 export const projects = [
     {
         id: 1,
-        title: "CaseCobra",
-        des: "A Modern E-Commerce-Store for Custom Phone Cases.",
-        img: "/casecobra.png",
+        title: "LiveDocs",
+        des: "A powerful tool designed for real-time editing and seamless sharing, much like Google Docs.",
+        img: "/livedocs.png",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
-        link: "https://github.com/omkarpawar7000/casecobra",
+        link: "https://github.com/omkarpawar7000/livedocs",
+        liveSite: "https://livedocs-nine.vercel.app/sign-in",
     },
     {
         id: 2,
@@ -85,6 +86,7 @@ export const projects = [
         img: "/p2.svg",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
         link: "https://github.com/omkarpawar7000/zoom",
+        liveSite: "https://zoom-nsrmer5sw-omkarpawar7000s-projects.vercel.app/",
     },
     {
         id: 3,
@@ -93,6 +95,7 @@ export const projects = [
         img: "/healthcare.png",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
         link: "https://github.com/omkarpawar7000/CarePulse",
+        liveSite: "https://care-pulse-navy.vercel.app/",
     },
     {
         id: 4,
@@ -101,6 +104,7 @@ export const projects = [
         img: "/p4.svg",
         iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
         link: "https://github.com/omkarpawar7000/3D_Apple_Website",
+        liveSite: "https://3-d-apple-website-psi.vercel.app/",
     },
 ];
 

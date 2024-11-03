@@ -13,14 +13,14 @@ const RecentProjects = () => {
                 </span>
             </h1>
             <div className='flex flex-wrap items-center justify-center p-4 gap-x-24 gap-y-8 mt-10'>
-                {projects.map(({ id, title, des, img, iconLists, link }) => (
+                {projects.map(({ id, title, des, img, iconLists, link, liveSite }) => (
                     <div key={id} className='sm:h-[41rem] h-[32rem] lg:min-h-[32.5rem] flex items-center justify-center sm:w-[570px] w-[80vw]'>
                         <PinContainer title={link} href={link}>
                             <div className='relative flex items-center justify-center sm:w-[570px] sm:h-[40vh] w-[80vw] overflow-hidden h-[30vh] mb-10'>
                                 <div className='relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#13162d]'>
                                     <img src='/bg.png' alt="bg-img" />
                                 </div>
-                                <img src={img} alt={title} className='z-10 absolute bottom-0' />
+                                <img src={img} alt={title} className='z-10 absolute w-full h-full' />
                             </div>
                             <h1 className='font-bold lg:text-2xl md:text-xl text-base line-clamp-1'>
                                 {title}
@@ -40,10 +40,10 @@ const RecentProjects = () => {
                                     ))}
                                 </div>
 
-                                <div className='fkex justify-center items-center'>
+                                <a href={liveSite} target='_blank' rel='noopener noreferrer' className='flex justify-center items-center'>
                                     <p className='flex lg:text-xl md:text-xs text-sm text-purple'>Check Live Site</p>
                                     <FaLocationArrow className='ms-3' color='#CBACF9' />
-                                </div>
+                                </a>
                             </div>
                         </PinContainer>
                     </div>
